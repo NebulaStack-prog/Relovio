@@ -25,16 +25,33 @@ Moving is one of the most stressful events in life. Items get packed into dozens
 *   **Password Hashing:** Passwords are never stored in plain text (secured via `bcrypt`).
 *   **Multi-tenancy:** Each user has their own private workspace. Users can only see and manage their own moving plans (Sets).
 
+<img src="https://github.com/NebulaStack-prog/Relovio/raw/main/R1.jpg" width="300" height="600">
+
+<img src="https://github.com/NebulaStack-prog/Relovio/raw/main/R2.jpg" width="300" height="600">
+
+
 ### 2. Task Management (Tasks)
 *   **Stage-based Planning:** Tasks are divided into three logical stages: *Before Moving*, *Moving Day*, and *After Moving*.
 *   **Deadlines & Progress:** Set due dates and track overall completion percentage.
 *   **Visual Feedback:** Newly created tasks highlight briefly to confirm successful creation.
+
+<img src="https://github.com/NebulaStack-prog/Relovio/raw/main/R7.jpg" width="300" height="600">
+
+<img src="https://github.com/NebulaStack-prog/Relovio/raw/main/R8.jpg" width="300" height="648">
+
+<img src="https://github.com/NebulaStack-prog/Relovio/raw/main/R4.jpg" width="300" height="325">
+
 
 ### 3. Inventory & Boxes (Things)
 *   **Box Creation:** Create boxes, assign them to specific rooms, and track their current status.
 *   **Item Management:** Add items to boxes with specific tags: *Fragile*, *Essential (First Day)*, and *Owner* (e.g., "Mom's items").
 *   **Smart Statuses:** The box status automatically updates to "Packed" when all items inside are marked as packed.
 *   **Status Flow:** Manual status progression (Ready to Ship -> In Transit -> Delivered -> Unpacked).
+
+<img src="https://github.com/NebulaStack-prog/Relovio/raw/main/R5.jpg" width="300" height="705">
+
+<img src="https://github.com/NebulaStack-prog/Relovio/raw/main/R6.jpg" width="300" height="542">
+
 
 ### 4. QR Code Generation
 *   **Unique Tokens:** Every box gets a unique `qr_token` upon creation.
@@ -47,6 +64,15 @@ Moving is one of the most stressful events in life. Items get packed into dozens
 *   **Room-based Checklist:** Automatically syncs packed items from boxes and allows adding custom manual checklist entries.
 *   **Moving Guides:** Built-in tips for packing fragile items and a list of essentials to keep on hand.
 *   **Notes:** A personal space to write down important contacts or moving day reminders.
+
+<img src="https://github.com/NebulaStack-prog/Relovio/raw/main/R9.jpg" width="300" height="600">
+
+<img src="https://github.com/NebulaStack-prog/Relovio/raw/main/R10.jpg" width="300" height="616">
+
+<img src="https://github.com/NebulaStack-prog/Relovio/raw/main/R11.jpg" width="300" height="616">
+
+<img src="https://github.com/NebulaStack-prog/Relovio/raw/main/R12.jpg" width="300" height="616">
+
 
 ## 🛠 Tech Stack & Architecture
 
@@ -66,5 +92,8 @@ Moving is one of the most stressful events in life. Items get packed into dozens
 *   **GitLab CI:** Automated testing pipeline (Pytest for backend, Vitest for frontend) runs on every push.
 *   **Nginx:** Reverse proxy and static file server for the frontend.
 *   **Systemd:** Process manager ensuring the backend runs 24/7 and restarts on failure.
+
+<img src="https://github.com/NebulaStack-prog/Relovio/raw/main/R3.jpg" width="300" height="600">
+
 
 © NESTIMS & SoCrazYy
