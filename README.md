@@ -41,6 +41,8 @@ Moving is one of the most stressful events in life. Items get packed into dozens
 *   **SVG Generation:** The backend generates crisp, scalable SVG QR codes on the fly.
 *   **Print-Ready:** Users can open a modal to view, save, or print the QR code to stick on the physical box.
 
+<img src="https://github.com/NebulaStack-prog/Relovio/raw/main/R13.jpg" width="300" height="404">
+
 ### 5. Checklist & Guides
 *   **Room-based Checklist:** Automatically syncs packed items from boxes and allows adding custom manual checklist entries.
 *   **Moving Guides:** Built-in tips for packing fragile items and a list of essentials to keep on hand.
