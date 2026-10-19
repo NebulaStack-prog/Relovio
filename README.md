@@ -64,3 +64,5 @@ Moving is one of the most stressful events in life. Items get packed into dozens
 *   **GitLab CI:** Automated testing pipeline (Pytest for backend, Vitest for frontend) runs on every push.
 *   **Nginx:** Reverse proxy and static file server for the frontend.
 *   **Systemd:** Process manager ensuring the backend runs 24/7 and restarts on failure.
+
+© NESTIMS & SoCrazYy
