@@ -93,13 +93,11 @@ Moving is one of the most stressful events in life. Items get packed into dozens
 *   **Nginx:** Reverse proxy and static file server for the frontend.
 *   **Systemd:** Process manager ensuring the backend runs 24/7 and restarts on failure.
 
-<img src="https://github.com/NebulaStack-prog/Relovio/raw/main/R3.jpg" width="300" height="600">
-
 ## 🌐 Live Demo
 
 You can explore the live version of **NESTIMS** deployed on a Virtual Machine:
 
-**[Try: ](http://95.213.154.52/)**
+**[Try this link](http://95.213.154.52/)**
 
 **How to test the app:**
 
@@ -109,5 +107,7 @@ You can explore the live version of **NESTIMS** deployed on a Virtual Machine:
 4. Start creating your first moving plan, add boxes, and generate QR codes!
 
 *(Note: The project is hosted on a test VM. If the link is temporarily unavailable, please refer to the "Getting Started" section below to run it locally).*
+
+<img src="https://github.com/NebulaStack-prog/Relovio/raw/main/R3.jpg" width="300" height="600">
 
 © NESTIMS & SoCrazYy
