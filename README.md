@@ -95,5 +95,19 @@ Moving is one of the most stressful events in life. Items get packed into dozens
 
 <img src="https://github.com/NebulaStack-prog/Relovio/raw/main/R3.jpg" width="300" height="600">
 
+## 🌐 Live Demo
+
+You can explore the live version of **NESTIMS** deployed on a Virtual Machine:
+
+**[Try: ](http://95.213.154.52/)**
+
+**How to test the app:**
+
+1. Open the link above.
+2. Click the **"Регистрация" (Register)** tab.
+3. Create a new account (username and password) to get your own private workspace.
+4. Start creating your first moving plan, add boxes, and generate QR codes!
+
+*(Note: The project is hosted on a test VM. If the link is temporarily unavailable, please refer to the "Getting Started" section below to run it locally).*
 
 © NESTIMS & SoCrazYy
