@@ -95,7 +95,7 @@ Moving is one of the most stressful events in life. Items get packed into dozens
 
 ## 🌐 Live Demo
 
-You can explore the live version of **NESTIMS** deployed on a Virtual Machine:
+You can explore the live version of **Relovio** deployed on a Virtual Machine:
 
 **[Try this link](http://95.213.154.52/)**
 
@@ -104,7 +104,7 @@ You can explore the live version of **NESTIMS** deployed on a Virtual Machine:
 1. Open the link above.
 2. Click the **"Регистрация" (Register)** tab.
 3. Create a new account (username and password) to get your own private workspace.
-4. Start creating your first moving plan, add boxes, and generate QR codes!
+4. Start creating your first moving plan, add boxes, and generate QR codes.
 
 *(Note: The project is hosted on a test VM. If the link is temporarily unavailable, please refer to the "Getting Started" section below to run it locally).*
 
