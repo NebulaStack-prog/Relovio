@@ -29,9 +29,9 @@ Moving is one of the most stressful events in life. Items get packed into dozens
 *   **Password Hashing:** Passwords are never stored in plain text (secured via `bcrypt`).
 *   **Multi-tenancy:** Each user has their own private workspace. Users can only see and manage their own moving plans (Sets).
 
-<img src="https://github.com/NebulaStack-prog/Relovio/raw/main/R1.jpg" width="300" height="600">
+<p align="center"><img src="https://github.com/NebulaStack-prog/Relovio/raw/main/R1.jpg" width="300" height="600"></p>
 
-<img src="https://github.com/NebulaStack-prog/Relovio/raw/main/R2.jpg" width="300" height="600">
+<p align="center"><img src="https://github.com/NebulaStack-prog/Relovio/raw/main/R2.jpg" width="300" height="600"></p>
 
 
 ### 2. Task Management (Tasks)
@@ -39,11 +39,11 @@ Moving is one of the most stressful events in life. Items get packed into dozens
 *   **Deadlines & Progress:** Set due dates and track overall completion percentage.
 *   **Visual Feedback:** Newly created tasks highlight briefly to confirm successful creation.
 
-<img src="https://github.com/NebulaStack-prog/Relovio/raw/main/R7.jpg" width="300" height="600">
+<p align="center"><img src="https://github.com/NebulaStack-prog/Relovio/raw/main/R7.jpg" width="300" height="600"></p>
 
-<img src="https://github.com/NebulaStack-prog/Relovio/raw/main/R8.jpg" width="300" height="648">
+<p align="center"><img src="https://github.com/NebulaStack-prog/Relovio/raw/main/R8.jpg" width="300" height="648"></p>
 
-<img src="https://github.com/NebulaStack-prog/Relovio/raw/main/R4.jpg" width="300" height="325">
+<p align="center"><img src="https://github.com/NebulaStack-prog/Relovio/raw/main/R4.jpg" width="300" height="325"></p>
 
 
 ### 3. Inventory & Boxes (Things)
@@ -52,9 +52,9 @@ Moving is one of the most stressful events in life. Items get packed into dozens
 *   **Smart Statuses:** The box status automatically updates to "Packed" when all items inside are marked as packed.
 *   **Status Flow:** Manual status progression (Ready to Ship -> In Transit -> Delivered -> Unpacked).
 
-<img src="https://github.com/NebulaStack-prog/Relovio/raw/main/R5.jpg" width="300" height="705">
+<p align="center"><img src="https://github.com/NebulaStack-prog/Relovio/raw/main/R5.jpg" width="300" height="705"></p>
 
-<img src="https://github.com/NebulaStack-prog/Relovio/raw/main/R6.jpg" width="300" height="542">
+<p align="center"><img src="https://github.com/NebulaStack-prog/Relovio/raw/main/R6.jpg" width="300" height="542"></p>
 
 
 ### 4. QR Code Generation
@@ -62,20 +62,20 @@ Moving is one of the most stressful events in life. Items get packed into dozens
 *   **SVG Generation:** The backend generates crisp, scalable SVG QR codes on the fly.
 *   **Print-Ready:** Users can open a modal to view, save, or print the QR code to stick on the physical box.
 
-<img src="https://github.com/NebulaStack-prog/Relovio/raw/main/R13.jpg" width="300" height="404">
+<p align="center"><img src="https://github.com/NebulaStack-prog/Relovio/raw/main/R13.jpg" width="300" height="404"></p>
 
 ### 5. Checklist & Guides
 *   **Room-based Checklist:** Automatically syncs packed items from boxes and allows adding custom manual checklist entries.
 *   **Moving Guides:** Built-in tips for packing fragile items and a list of essentials to keep on hand.
 *   **Notes:** A personal space to write down important contacts or moving day reminders.
 
-<img src="https://github.com/NebulaStack-prog/Relovio/raw/main/R9.jpg" width="300" height="600">
+<p align="center"><img src="https://github.com/NebulaStack-prog/Relovio/raw/main/R9.jpg" width="300" height="600"></p>
 
-<img src="https://github.com/NebulaStack-prog/Relovio/raw/main/R10.jpg" width="300" height="616">
+<p align="center"><img src="https://github.com/NebulaStack-prog/Relovio/raw/main/R10.jpg" width="300" height="616"></p>
 
-<img src="https://github.com/NebulaStack-prog/Relovio/raw/main/R11.jpg" width="300" height="616">
+<p align="center"><img src="https://github.com/NebulaStack-prog/Relovio/raw/main/R11.jpg" width="300" height="616"></p>
 
-<img src="https://github.com/NebulaStack-prog/Relovio/raw/main/R12.jpg" width="300" height="616">
+<p align="center"><img src="https://github.com/NebulaStack-prog/Relovio/raw/main/R12.jpg" width="300" height="616"></p>
 
 
 ## 🛠 Tech Stack & Architecture
@@ -112,6 +112,6 @@ You can explore the live version of **Relovio** deployed on a Virtual Machine:
 
 *(Note: The project is hosted on a test VM. If the link is temporarily unavailable, please refer to the "Getting Started" section below to run it locally).*
 
-<img src="https://github.com/NebulaStack-prog/Relovio/raw/main/R3.jpg" width="300" height="600">
+<p align="center"><img src="https://github.com/NebulaStack-prog/Relovio/raw/main/R3.jpg" width="300" height="600"></p>
 
 © NESTIMS & SoCrazYy
