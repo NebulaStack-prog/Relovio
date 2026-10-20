@@ -112,7 +112,7 @@ You can explore the live version of **Relovio** deployed on a Virtual Machine:
 
 *(Note: The project is hosted on a test VM. If the link is temporarily unavailable, please refer to the "Getting Started" section below to run it locally).*
 
-[Getting started link](https://github.com/NebulaStack_prog/Relovio-GS)
+**[Getting started link](https://github.com/NebulaStack_prog/Relovio-GS)**
 
 <p align="center"><img src="https://github.com/NebulaStack-prog/Relovio/raw/main/R3.jpg" width="300" height="600"></p>
 
