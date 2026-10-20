@@ -17,9 +17,9 @@
 
 ## 📖 Overview
 
-Moving is one of the most stressful events in life. Items get packed into dozens of identical boxes, and soon it becomes impossible to remember where the documents, chargers, or daily essentials are. 
+* Moving is one of the most stressful events in life. Items get packed into dozens of identical boxes, and soon it becomes impossible to remember where the documents, chargers, or daily essentials are. 
 
-**NESTIMS** solves this problem by providing a clean, minimalist interface to digitize the moving process. Users can create moving plans, assign items to specific boxes, and generate unique QR codes to print and stick on physical boxes. The system tracks the status of every box from packing to final unpacking.
+* **NESTIMS** solves this problem by providing a clean, minimalist interface to digitize the moving process. Users can create moving plans, assign items to specific boxes, and generate unique QR codes to print and stick on physical boxes. The system tracks the status of every box from packing to final unpacking.
 
 ## ✨ Key Features
 
@@ -112,7 +112,7 @@ You can explore the live version of **Relovio** deployed on a Virtual Machine:
 
 *(Note: The project is hosted on a test VM. If the link is temporarily unavailable, please refer to the "Getting Started" section below to run it locally).*
 
-**[Getting started link](https://github.com/NebulaStack_prog/Relovio-GS)**
+**[Getting started link](https://github.com/NebulaStack-prog/Relovio-GS)**
 
 <p align="center"><img src="https://github.com/NebulaStack-prog/Relovio/raw/main/R3.jpg" width="300" height="600"></p>
 
